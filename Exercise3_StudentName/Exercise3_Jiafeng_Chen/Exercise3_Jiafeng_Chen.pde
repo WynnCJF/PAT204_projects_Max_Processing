@@ -43,10 +43,16 @@ float [] posXArray = {};
 float [] posYArray = {};
 color [] colorArray = {};
 
+float size_lb;
+float size_ub ;
+
 void setup() {
   fullScreen();
   // colorMode(HSB, 255);
   background(255);
+  
+  size_lb = 40. * height / 900.;
+  size_ub = 160. * height / 900.;
 }
 
 void draw () {
@@ -63,7 +69,7 @@ void draw () {
     // position, size and color with some randomization
     posXArray = append(posXArray, mouseX);
     posYArray = append(posYArray, mouseY);
-    sizeArray = append(sizeArray, random(30, 120));
+    sizeArray = append(sizeArray, random(size_lb, size_ub));
     colorArray = append(colorArray, color(random(30, 255), random(20, 30), random(40, 255)));
   }
   

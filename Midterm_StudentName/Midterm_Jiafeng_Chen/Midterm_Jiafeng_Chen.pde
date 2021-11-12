@@ -101,10 +101,13 @@ float background_alpha = 50;
  
 void setup () {
   fullScreen();
+  // size(1440, 900);
   noCursor();
   // smooth();
   background(0);
   // frameRate(24);
+  // println(width);
+  // println(height);
   
   // Initialize the size of the main shapes according to full screen height
   low_inner = height / 9.;
