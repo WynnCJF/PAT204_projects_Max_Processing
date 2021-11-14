@@ -58,3 +58,8 @@ This is a repo for my PAT 204, Creative Coding for Music, course projects.
 
 <img src="Exercise9_Jiafeng_Chen/hw9_screenshot.png" alt="hw9" style="zoom:40%;" />
 
+
+
+**HW10**: MAX + Processing Arpeggiator
+
+<img src="Exercise10_Jiafeng_Chen/hw10_screenshot.png" alt="hw10" style="zoom:35%;" />
