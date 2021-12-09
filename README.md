@@ -63,3 +63,15 @@ This is a repo for my PAT 204, Creative Coding for Music, course projects.
 **HW10**: MAX + Processing Arpeggiator
 
 <img src="Exercise10_Jiafeng_Chen/hw10_screenshot.png" alt="hw10" style="zoom:35%;" />
+
+
+
+**HW11**: Audiovisual Generative Art
+
+<img src="Exercise11_Jiafeng_Chen/hw11_screenshot.png" alt="hw10" style="zoom:35%;" />
+
+
+
+**Final Project**: WAVE / FORM (Audiovisual Installation)
+
+<img src="Final_Jiafeng_Chen/final_pre.jpg" alt="hw10" style="zoom:35%;" />
