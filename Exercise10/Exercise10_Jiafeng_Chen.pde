@@ -75,7 +75,7 @@ void draw () {
     colorArray = append(colorArray, color(random(color_r_lb, color_r_ub), 30, 200));
     
     // Construct and send the cutoff frequency message
-    OscMessage cutoff_freq_message = new OscMessage("/cutoff_freq");
+    OscMessage cutoff_freq_message = new OscMessage("/bandpass_freq");
     cutoff_freq_message.add(map(abs(mouseX - width/2), width/2, 0, 8, 14));
     
     oscP5.send(cutoff_freq_message, remoteAddress); 
