@@ -77,6 +77,7 @@ This is a repo for my PAT 204, Creative Coding for Music, course projects.
 
 
 **Final Project**: WAVE / FORM (Audiovisual Installation)
+
 Demo video: https://vimeo.com/752048616
 
 <img src="Final/final_pre.jpg" alt="hw10" style="zoom:35%;" />
